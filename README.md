@@ -1,5 +1,5 @@
 # Dice App 
-Here you can download a dice app that has no Mixpanel added to it. 
+Here you can download a dice app that has Mixpanel added to it. 
 
 
 ## Credit
